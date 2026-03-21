@@ -1,0 +1,27 @@
+@charset "utf-8";
+body{
+  background-color:rgb(155 0 0/0.2);}
+p{font-weight: 1000}
+p{text-align: center;}
+p{
+  text-align: right;
+}
+ul{list-style-type:square}
+
+p{text-decoration: underline;}
+p{font-family: 'Courier New', Courier, monospace;}
+body {
+  font-family:"Roboto",sans-serif;
+}
+p{width: 100px;
+height: 100px;
+background-color: aqua;
+border-radius: 50px;
+border: 1px solid blue;
+}
+p{
+  width: 200px;
+  height: 300px;
+}
+a:hover{color: blue;}
+

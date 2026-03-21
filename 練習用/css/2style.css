@@ -1,0 +1,19 @@
+@charset "utf-8";
+.layout {
+  display:flex;
+}
+.layout{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 20px;
+}
+.card {
+  width: 250px;
+  height: 120px;
+  background: #f3f3f3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
